@@ -1,0 +1,8 @@
+# Excel files
+*.xlsx
+~$*.xlsx
+
+# Specific Excel files
+main.xlsx
+mapping.xlsx
+output.xlsx
